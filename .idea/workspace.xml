@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4644a5f3-bbcf-4796-b86e-2b5f4027ba5c" name="Changes" comment="Create PreferenciasUsuario and PreferenciasUsuarioTest">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PreferenciasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/settings/PreferenciasUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PreferenciasUsuarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/settings/PreferenciasUsuarioTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4644a5f3-bbcf-4796-b86e-2b5f4027ba5c" name="Changes" comment="Create PreferenciasUsuario and PreferenciasUsuarioTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
