@@ -1,19 +1,17 @@
-
+package settings;
 
 public class PreferenciasUsuario {
+
+    private PreferenciasUsuario() {};
+    private static PreferenciasUsuario instance = new PreferenciasUsuario();
+
+    public static PreferenciasUsuario getInstance() {
+        return instance;
+    }
     private String cor;
     private String fonte;
     private int tamanhoFonte;
 
-    private static PreferenciasUsuario instance;
-    private PreferenciasUsuario() {};
-
-    public static PreferenciasUsuario getInstance() {
-        if (instance == null) {
-            instance = new PreferenciasUsuario();
-        }
-        return instance;
-    }
 
     public String getCor(){
         return cor;

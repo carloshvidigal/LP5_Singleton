@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4644a5f3-bbcf-4796-b86e-2b5f4027ba5c" name="Changes" comment="Create PreferenciasUsuario and PreferenciasUsuarioTest">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PreferenciasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/settings/PreferenciasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PreferenciasUsuarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/settings/PreferenciasUsuarioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
+    "last_directory_selection": "C:/Users/Carlos Henrique/Documents/GitHub/LP5_Singleton/src/test/java/settings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -43,6 +48,28 @@
     <option name="myCommands">
       <command value="PreferenciasUsuario" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PreferenciasUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5_Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="settings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="settings" />
+      <option name="MAIN_CLASS_NAME" value="settings.PreferenciasUsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PreferenciasUsuarioTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
